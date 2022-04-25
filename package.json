@@ -1,0 +1,16 @@
+{
+  "name": "mentionAllBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lpite <farionsasa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.27",
+    "ts-node-dev": "^1.1.8"
+  },
+  "dependencies": {
+    "mongoose": "^6.3.1",
+    "telegraf": "^4.7.0",
+    "typescript": "^4.6.3"
+  }
+}
